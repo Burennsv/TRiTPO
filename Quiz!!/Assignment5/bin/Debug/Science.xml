@@ -1,0 +1,72 @@
+<movies>
+<question id="1">
+<ques>Самая большая планета в солнечной системе??</ques>
+<wrong>Земля</wrong>
+<correct>Юпитер</correct>
+<wrong>Марс</wrong>
+<wrong>Меркурий</wrong>
+</question>
+<question id="2">
+<ques>Какой символ в переодической таблице у кислорода?</ques>
+<wrong>K</wrong>
+<wrong>M</wrong>
+<correct>O</correct>
+<wrong>C</wrong>
+</question>
+<question id="3">
+<ques>Какой уровень кислотности pH у чистой воды?</ques>
+<correct>7</correct>
+<wrong>6</wrong>
+<wrong>8</wrong>
+<wrong>5</wrong>
+</question>
+<question id="4">
+<ques>Самая высокая гора на Земле?</ques>
+<wrong>Гора Абу</wrong>
+<wrong>Гора Фудзи</wrong>
+<correct>Гора Эверест</correct>
+<wrong>Гора Монблан</wrong>
+</question>
+<question id="5">
+<ques>Из каких элементов состоит вода?</ques>
+<correct>Кислород и водород</correct>
+<wrong>Водород и гелий</wrong>
+<wrong>Азот и водород</wrong>
+<wrong>Азот и кислород</wrong>
+</question>
+<question id="6">
+<ques>Имя ближайшей к земле звезды?</ques>
+<wrong>Арктур</wrong>
+<wrong>Бетельгейзе</wrong>
+<wrong>Аврора</wrong>
+<correct>Солнце</correct>
+</question>
+<question id="7">
+<ques>Расшифровка абривеатуры WWW?</ques>
+<wrong>World Wide Winner</wrong>
+<wrong>World Wide Wild</wrong>
+<wrong>Web Wide World</wrong>
+<correct>World Wide Web</correct>
+</question>
+<question id="8">
+<ques>Чем являются Opera, Firefox, Chrome?</ques>
+<wrong>Веб сайты</wrong>
+<wrong>Операционные системы</wrong>
+<wrong>Облачные хранилища</wrong>
+<correct>Веб браузеры</correct>
+</question>
+<question id="9">
+<ques>Для измерения чего предназначен термометр?</ques>
+<wrong>Давления</wrong>
+<wrong>Объема</wrong>
+<correct>Температуры</correct>
+<wrong>Звука</wrong>
+</question>
+<question id="10">
+<ques>Страна, в которой чаще всего возникают торнадо?</ques>
+<wrong>ОАЭ</wrong>
+<correct>США</correct>
+<wrong>Индия</wrong>
+<wrong>Швеция</wrong>
+</question>
+</movies>

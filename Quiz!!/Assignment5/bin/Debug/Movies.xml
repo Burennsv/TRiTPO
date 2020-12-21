@@ -1,0 +1,72 @@
+<movies>
+<question id="1">
+<ques>Кто был режиссёром фильма "Интерстеллар"?</ques>
+<wrong>Джэймс Кэмерон</wrong>
+<correct>Кристофер Нолан</correct>
+<wrong>Джэксон</wrong>
+<wrong>Филипс</wrong>
+</question>
+<question id="2">
+<ques>Кто исполнил главную роль в фильме "Форест Гамп"?</ques>
+<wrong>Амитабх Баччан</wrong>
+<wrong>Кэмерон Уайт</wrong>
+<correct>Том Хэнкс</correct>
+<wrong>Кристиан Бэйл</wrong>
+</question>
+<question id="3">
+<ques>Где расположен Голливуд?</ques>
+<correct>Калифонния</correct>
+<wrong>Атланта</wrong>
+<wrong>Огайо</wrong>
+<wrong>Мичиган</wrong>
+</question>
+<question id="4">
+<ques>Какой фильм был награжден найбольшим количеством Оскаров?</ques>
+<wrong>Тёмный рыцарь</wrong>
+<wrong>Мстители</wrong>
+<correct>Титаник</correct>
+<wrong>Люди-Икс</wrong>
+</question>
+<question id="5">
+<ques>Какой фильм был срежиссирован Кристофером Ноланом?</ques>
+<wrong>Титаник</wrong>
+<wrong>Аватар</wrong>
+<wrong>2012</wrong>
+<correct>Престиж</correct>
+</question>
+<question id="6">
+<ques>Сюжет фильма "Мартовские Иды" развивается в каком штате?</ques>
+<wrong>Иллинойс</wrong>
+<wrong>Атланта</wrong>
+<wrong>Калифорния</wrong>
+<correct>Огайо</correct>
+</question>
+<question id="7">
+<ques>Кто написал музыку для фильма "Миллионер из трущоб"?</ques>
+<wrong>Мик Гордон</wrong>
+<wrong>Maroon</wrong>
+<wrong>Мэтью Филлипс</wrong>
+<correct>Алла Ракха Рахман</correct>
+</question>
+<question id="8">
+<ques>Кто играл роль Тони Старка в фильме "Железный человек"?</ques>
+<wrong>Крис Эванс</wrong>
+<wrong>Джесика Альба</wrong>
+<wrong>Крис Пратт</wrong>
+<correct>Роберт Дауни - младший</correct>
+</question>
+<question id="9">
+<ques>В каком фильме играл Арнольд Шварцнеггер?</ques>
+<wrong>Бен-Гур</wrong>
+<wrong>Начало</wrong>
+<wrong>Железный человек</wrong>
+<correct>Киборг-убийца</correct>
+</question>
+<question id="10">
+<ques>Какой известный рестлер играл в фильме "Морской пехотинец"?</ques>
+<wrong>Стив Остин</wrong>
+<wrong>Рэй Мистерио</wrong>
+<wrong>Гробовщик</wrong>
+<correct>Джон Сина</correct>
+</question>
+</movies>
